@@ -1,5 +1,5 @@
 # student-portfolio
-Chace White,
+#Chace White,
 
 DCCC Class of 2028 / 2030 Business major,
 
